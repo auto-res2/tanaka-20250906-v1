@@ -6,5 +6,82 @@
     "accelerated transformer convergence",
     "quantization-aware LLM training",
     "low-rank adaptation LoRA"
+  ],
+  "research_study_list": [
+    {
+      "title": "Efficient Training of Language Models using Few-Shot Learning"
+    },
+    {
+      "title": "Dataset Decomposition: Faster LLM Training with Variable Sequence Length Curriculum"
+    },
+    {
+      "title": "Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training"
+    },
+    {
+      "title": "VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections"
+    },
+    {
+      "title": "The Fine-Grained Complexity of Gradient Computation for Training Large Language Models"
+    },
+    {
+      "title": "SparseLLM: Towards Global Pruning of Pre-trained Language Models"
+    },
+    {
+      "title": "Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark"
+    },
+    {
+      "title": "VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections"
+    },
+    {
+      "title": "Response Length Perception and  Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline"
+    },
+    {
+      "title": "The LLM Surgeon"
+    },
+    {
+      "title": "Unraveling the Gradient Descent Dynamics of Transformers"
+    },
+    {
+      "title": "Non-asymptotic Convergence of Training Transformers for Next-token Prediction"
+    },
+    {
+      "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention"
+    },
+    {
+      "title": "Transformers Learn to Achieve Second-Order Convergence Rates for In-Context Linear Regression"
+    },
+    {
+      "title": "Learning to Grow Pretrained Models for Efficient Transformer Training"
+    },
+    {
+      "title": "QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models"
+    },
+    {
+      "title": "Intriguing Properties of Quantization at Scale"
+    },
+    {
+      "title": "QuIP: 2-Bit Quantization of Large Language Models With Guarantees"
+    },
+    {
+      "title": "Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization"
+    },
+    {
+      "title": "LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models"
+    },
+    {
+      "title": "The Expressive Power of Low-Rank Adaptation"
+    },
+    {
+      "title": "ReLoRA: High-Rank Training Through Low-Rank Updates"
+    },
+    {
+      "title": "LoRA Training in the NTK Regime has No Spurious Local Minima"
+    },
+    {
+      "title": "LoRA Training in the NTK Regime has No Spurious Local Minima"
+    },
+    {
+      "title": "Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning "
+    }
   ]
 }
