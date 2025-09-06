@@ -1,0 +1,10 @@
+{
+  "research_topic": "LLMの高速な新しい学習方法に関する研究",
+  "queries": [
+    "fast LLM training",
+    "efficient LLM optimization",
+    "accelerated transformer convergence",
+    "quantization-aware LLM training",
+    "low-rank adaptation LoRA"
+  ]
+}
